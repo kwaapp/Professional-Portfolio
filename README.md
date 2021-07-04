@@ -38,11 +38,11 @@ Desktop screen:
 
 Desktop screen:
 
-![body-section](./assets/images/nav-web-2.JPG?raw=true "Body Section")
+![body-section](./assets/images/nav-web-2.JPG "Body Section")
 
 Smaller devices screen example:
 
-![body-section](./assets/images/nav-web-smaller-2.JPG?raw=true "Body Section")
+![body-section](./assets/images/nav-web-smaller-2.JPG "Body Section")
 
 
 <a name="contributing"></a>

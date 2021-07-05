@@ -25,14 +25,14 @@ https://kwaapp.github.io/Professional-Portfolio//
 ## 3. Usage Tips
 
 
-### Use the top right navigation panel to visit the different sections of the web page.
+### Use the top right navigation panel to visit the different sections of the web page. Responsive for both web and mobile.
 
 Desktop screen:
 
 ![nav-menu](./assets/images/nav-menu.JPG?raw=true "Navigational Menu")
 
 
-### Have fun exploring my portfolio and come back for updated layouts and projects.
+### Have fun exploring my portfolio and come back for updated layouts and projects. 
 
 
 
